@@ -11,7 +11,7 @@ I'm a Data Analyst transitioning to becoming a Software Engineer. I'm passionate
 - 🌱 I’m currently learning JavaScript, Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front-End Engineer(Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing fatimahbadmus04@gmail.com.
+- 📫 You can contact me by emailing fatimahbadmus04@gmail.com.
 
 ---
 
