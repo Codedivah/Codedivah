@@ -7,7 +7,7 @@ I'm a Data Analyst transitioning to becoming a Software Engineer. I'm passionate
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at Alx Africa Class of 2022.
+- 💡 Fun fact: I'm currently studying at Alx Africa Class of 2025.
 - 🌱 I’m currently learning JavaScript, Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front-End Engineer(Intern or Junior level).
